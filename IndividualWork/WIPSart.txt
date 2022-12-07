@@ -1,0 +1,61 @@
+9.02.2022:
+    First of all, init this file
+    Started working on back-end part (server + DB + API)
+    Learning into django
+
+10.02.2022:
+    Learning about REST
+
+11.02.2022:
+    Learning about REST and SOLID
+    thinking about the structure
+
+12.02.2022:
+    Literally doing nothing
+
+13.02.2022:
+    Django is harder and simpler than it seems
+    
+15.02.2022:
+    Writing docs
+
+18.02.2022:
+    First get request
+
+23.02.2022:
+    First put request... Need to work faster
+
+28.02.2022:
+    Writing docs
+
+5.03.2022:
+    don't know where I'm wasting my time
+
+12-20.03.2022:
+    Building up a server in Golang
+
+20.03.2022:
+    Implement JSON support
+
+21.03.2022:
+    Saving data when exiting
+
+27.04.2022:
+    Check commits, I forgot to paste the work here =)
+
+1.05.2022:
+    Debugging
+
+6.05.2022:
+    Debugging and writting docs
+
+12.05.2022:
+    Debugging docs
+
+24.05.2022:
+    Just the same, 
+    working on debugging and testing the server-side code and debuggin docs, 
+    moreover working on the final presentation
+
+28.05.2022:
+    Relaxing and making presentation
